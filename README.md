@@ -1,4 +1,24 @@
-### Hi there 👋
+## Hi there 👋
+
+### I like...
+- C
+- Linux
+- eBPF
+- [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
+
+### I'm interested in...
+- Python
+- Rust
+- Go
+- Haskell
+
+### I'm using...
+- Arch Linux
+- Windows 10 Pro
+- Visual Studio Code
+- [OneDark-Pro](https://github.com/Binaryify/OneDark-Pro)
+- [Hack](https://sourcefoundry.org/hack/)
+  - [Nerd patch](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack)
 
 <!--
 **asd142513/asd142513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
